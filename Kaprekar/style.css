@@ -6,18 +6,19 @@
 div{
     width: 100%;
     height: 100%;
-    background: tomato;
+    background: olive;
     position: absolute;
 }
 
 input{
-    width: 15%;
+    width: 20%;
     background: #000000;
     color: #ffffff;
     text-align: center;
     vertical-align: middle;
-    margin-left: 42.5%;
+    margin-left: 40%;
     margin-top: 25%;
+    font-size: 1.5em;
 }
 
 button{
@@ -25,4 +26,5 @@ button{
     text-align: center;
     vertical-align: middle;
     margin-left: 47.5%;
+    margin-top: 0.5%;
 }
